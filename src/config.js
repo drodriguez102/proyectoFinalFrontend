@@ -1,5 +1,5 @@
 module.exports ={
     api:{
-        baseURL:"http://localhost:5000"
+        baseURL:"https://proyectofinalbackend-cdkf.onrender.com"
     }
 }
